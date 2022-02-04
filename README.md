@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ------------
 
 I'm Ashutosh Gupta, a sophomore at Indian Institute of Technology, Delhi. 
-![GitHub Views](https://komarev.com/ghpvc/?ashutoshg25=<ashutoshg25>)
+![GitHub Views](https://komarev.com/ghpvc/?ashutoshg25=ashutoshg25)
 https://www.linkedin.com/in/ashutosh-gupta-533042196/
